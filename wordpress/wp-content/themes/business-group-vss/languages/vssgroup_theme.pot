@@ -1,0 +1,651 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-25 15:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:7
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:10 author.php:15 category.php:15 index.php:8 index.php:11
+#: search.php:11 tag.php:15 templates/vss-sitemap.php:17
+#: templates/vss-sitemap.php:27
+msgid "Home"
+msgstr ""
+
+#: 404.php:10
+msgid " / Page Not Found"
+msgstr ""
+
+#: 404.php:20
+msgid "We are sorry but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:21
+msgid "You could"
+msgstr ""
+
+#: 404.php:21
+msgid "return to the home page"
+msgstr ""
+
+#: 404.php:21
+msgid "or search using the search box below."
+msgstr ""
+
+#: author.php:15
+msgid " / Author"
+msgstr ""
+
+#: category.php:15
+msgid " / Category"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:161 functions.php:185
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:162 functions.php:186
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:163 functions.php:187
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:165 functions.php:189
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:166 functions.php:190
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:167 functions.php:191
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:168 functions.php:192
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:169 functions.php:193
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:170 functions.php:194
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:171 functions.php:195
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:172 functions.php:196
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:173 functions.php:197
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:174 functions.php:198
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:175 functions.php:199
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:177 class-tgm-plugin-activation.php:1939
+#: functions.php:200
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:178 class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:531 class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1287 class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1309 class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2053 class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2053 class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "so far:"
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:18
+msgid "CONNECT WITH US"
+msgstr ""
+
+#: footer.php:41 footer.php:47
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:41
+msgid "All right reserverd."
+msgstr ""
+
+#: footer.php:57
+msgid "Powered by"
+msgstr ""
+
+#: functions.php:67
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:69
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:188
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:201
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:36
+msgid "Menu"
+msgstr ""
+
+#: home-front.php:27
+msgid "A FEW OF OUR RECENT PROJECTS"
+msgstr ""
+
+#: home-front.php:67 home-front.php:125
+msgid "Read More"
+msgstr ""
+
+#: home-front.php:85
+msgid "LATEST NEWS FROM OUR BLOG"
+msgstr ""
+
+#: index.php:53
+msgid "Author"
+msgstr ""
+
+#: index.php:56 loop.php:28 templates/vss-blog.php:63
+msgid "Read more"
+msgstr ""
+
+#: index.php:65
+msgid ""
+"<span class=\"meta-nav\"><i class=\"icon-left-open\"></i></span> Older posts"
+msgstr ""
+
+#: index.php:69
+msgid ""
+"Newer posts <span class=\"meta-nav\"><i class=\"icon-right-open\"></i></span>"
+msgstr ""
+
+#: loop.php:25 templates/vss-blog.php:60
+msgid "Author:"
+msgstr ""
+
+#: loop.php:42
+msgid "Sorry No Post Found..."
+msgstr ""
+
+#: page.php:20 single.php:11 templates/vss-blog.php:17
+#: templates/vss-contact.php:16 templates/vss-portfolio.php:16
+msgid "Home / "
+msgstr ""
+
+#: search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:8 templates/vss-sitemap.php:35
+msgid "Blog"
+msgstr ""
+
+#: single.php:23
+msgid "Date :"
+msgstr ""
+
+#: single.php:24
+msgid "Category : "
+msgstr ""
+
+#: single.php:26
+msgid "Author: "
+msgstr ""
+
+#: single.php:39
+msgid "Pages:"
+msgstr ""
+
+#: tag.php:15
+msgid " / Tag"
+msgstr ""
+
+#: functions/customizer.php:22
+msgid "Logo"
+msgstr ""
+
+#: functions/customizer.php:38
+msgid "Upload custom logo."
+msgstr ""
+
+#: functions/customizer.php:47
+msgid "Favicon"
+msgstr ""
+
+#: functions/customizer.php:63
+msgid "Upload custom favicon."
+msgstr ""
+
+#: functions/customizer.php:73
+msgid "Homepage Slider Option"
+msgstr ""
+
+#: functions/customizer.php:88
+msgid "Paste Slider Shortcode Here"
+msgstr ""
+
+#: functions/customizer.php:97
+msgid "Homepage Brand Logo Option"
+msgstr ""
+
+#: functions/customizer.php:112
+msgid "Paste Brand Logo Shortcode Here"
+msgstr ""
+
+#: functions/customizer.php:122
+msgid "Social Connect Url"
+msgstr ""
+
+#: functions/customizer.php:137
+msgid "Give Your Facebook Url."
+msgstr ""
+
+#: functions/customizer.php:155
+msgid "Give Your Twiiter Url."
+msgstr ""
+
+#: functions/customizer.php:174
+msgid "Give Your Linkedin Url."
+msgstr ""
+
+#: functions/customizer.php:184
+msgid "Footer Options"
+msgstr ""
+
+#: functions/customizer.php:199
+msgid "Copyright Text."
+msgstr ""
+
+#: functions/customizer.php:217
+msgid "Designed Company Url"
+msgstr ""
+
+#: functions/customizer.php:235
+msgid "Designed Company Name"
+msgstr ""
+
+#: functions/customizer.php:244
+msgid "Contact Page Options"
+msgstr ""
+
+#: functions/customizer.php:259
+msgid "Branch Address."
+msgstr ""
+
+#: functions/customizer.php:277
+msgid "Branch Phone No."
+msgstr ""
+
+#: functions/customizer.php:295
+msgid "Head Office Address."
+msgstr ""
+
+#: functions/customizer.php:313
+msgid "Head Office Phone No."
+msgstr ""
+
+#: functions/customizer.php:332
+msgid "Paste Your Contact Form 7 Shortcode"
+msgstr ""
+
+#: templates/vss-about.php:14
+msgid "About us"
+msgstr ""
+
+#: templates/vss-about.php:17
+msgid "Home "
+msgstr ""
+
+#: templates/vss-about.php:17
+msgid " / About "
+msgstr ""
+
+#: templates/vss-contact.php:34
+msgid "Our contact details"
+msgstr ""
+
+#: templates/vss-contact.php:35
+msgid "Branch Address"
+msgstr ""
+
+#: templates/vss-contact.php:43
+msgid "Head Office"
+msgstr ""
+
+#: templates/vss-portfolio.php:83 templates/vss-portfolio.php:138
+msgid "Clients:"
+msgstr ""
+
+#: templates/vss-portfolio.php:84 templates/vss-portfolio.php:139
+msgid "Date:"
+msgstr ""
+
+#: templates/vss-portfolio.php:85 templates/vss-portfolio.php:140
+msgid "Skills:"
+msgstr ""
+
+#: templates/vss-portfolio.php:88 templates/vss-portfolio.php:143
+msgid "View Project"
+msgstr ""
+
+#: templates/vss-sitemap.php:14 templates/vss-sitemap.php:46
+msgid "Sitemap"
+msgstr ""
+
+#: templates/vss-sitemap.php:17
+msgid "/ Sitemap"
+msgstr ""
+
+#: templates/vss-sitemap.php:28
+msgid "About Us"
+msgstr ""
+
+#: templates/vss-sitemap.php:29
+msgid "Contact Us"
+msgstr ""
+
+#: templates/vss-sitemap.php:32
+msgid "Main Links"
+msgstr ""
+
+#: templates/vss-sitemap.php:36
+msgid "Portfolio"
+msgstr ""
+
+#: templates/vss-sitemap.php:41
+msgid "Other Links"
+msgstr ""
+
+#: templates/vss-sitemap.php:44
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/vss-sitemap.php:45
+msgid "Terms & Conditions"
+msgstr ""
+
+#: widgets/vss-recent-project.php:11
+msgid "Latest Project"
+msgstr ""
+
+#: widgets/vss-recent-project.php:14
+msgid "select this widget to display the latest project"
+msgstr ""
+
+#: widgets/vss-recent-project.php:97
+msgid "New title"
+msgstr ""
+
+#: widgets/vss-recent-project.php:103
+msgid "3"
+msgstr ""
+
+#: widgets/vss-recent-project.php:108
+msgid "Title:"
+msgstr ""
+
+#: widgets/vss-recent-project.php:112
+msgid "Portfolio Count:"
+msgstr ""

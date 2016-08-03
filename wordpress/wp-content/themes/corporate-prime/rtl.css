@@ -1,0 +1,77 @@
+/*
+Theme Name: Corporate Prime
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.c_social {
+  float: right;
+}
+.c_contact {
+  text-align: left;
+}
+.c_address li i {
+  margin-left: 5px;
+  margin-right: 0px;
+}
+.navbar-header{
+	float:right;
+}
+.navbar-collapse {
+  float: left;
+}
+.navbar-nav  li {
+  float: right;
+}
+.corporate-ser {
+  float: right !important;
+}
+.c_blog_detail{
+ float: right !important;
+}
+.c_blog_date {
+  float: right;
+  text-align: left;
+}
+.c_breadcum ul {
+  float: left;
+}
+.right_side{
+	float:right;
+}
+.comment-form .form-group.col-md-4 {
+  float: right;
+}
+.comments-pics{
+	float:right;
+}
+.site-title {
+   float: right;
+}
+.blog-post-edit li i,
+ .blog-post-category li i,
+ .blog-post-tags li i,
+ .blog-post-comment li i,
+ .blog-post-date li i {
+  margin-left: 5px;
+}
+.pagination .pager .next {
+  float: left;
+}
+.pagination .pager .previous {
+  float: right;
+}
+.dropdown-menu li {
+  width: 100%;
+  text-align: right;
+}

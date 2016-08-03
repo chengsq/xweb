@@ -1,0 +1,631 @@
+# Copyright (C) 2016 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: corporate-prime 1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-11 13:25+0530\n"
+"PO-Revision-Date: 2016-07-11 13:25+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:21
+msgid "ERROR"
+msgstr ""
+
+#: 404.php:22
+msgid "Page cannot be found"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"The Page you requested is not be found. This could be spelling error in the "
+"url."
+msgstr ""
+
+#: 404.php:24
+msgid "Go back to homepage"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:41 index.php:46 search.php:34
+msgid "Previous Posts"
+msgstr ""
+
+#: archive.php:42 index.php:47 search.php:35
+msgid "Next Posts"
+msgstr ""
+
+#: comment-function.php:17
+msgid "Reply"
+msgstr ""
+
+#: comment-function.php:43
+msgid "at"
+msgstr ""
+
+#: comment-function.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:8
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:8 inc/template-tags.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:8 inc/template-tags.php:35
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:13
+msgid "Previous Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Next Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "NAME"
+msgstr ""
+
+#: comments.php:25
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:26
+msgid "EMAIL"
+msgstr ""
+
+#: comments.php:26
+msgid "Your Email Address"
+msgstr ""
+
+#: comments.php:27
+msgid "WEBSITE"
+msgstr ""
+
+#: comments.php:27
+msgid "Website"
+msgstr ""
+
+#: comments.php:35
+msgid "COMMENT"
+msgstr ""
+
+#: comments.php:35
+msgid "Message"
+msgstr ""
+
+#: comments.php:37
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:37
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:37
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:40
+msgid "SUBMIT COMMENT"
+msgstr ""
+
+#: comments.php:43
+msgid "Leave Your Comment Here"
+msgstr ""
+
+#: footer.php:20 functions.php:121
+msgid "Footer Widget Area"
+msgstr ""
+
+#: footer.php:22 functions.php:123
+msgid "footer widget area"
+msgstr ""
+
+#: footer.php:36
+msgid "Calendar"
+msgstr ""
+
+#: footer.php:50
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:52
+#, php-format
+msgid "Theme by %1$s."
+msgstr ""
+
+#: footer.php:58
+msgid "Go Top"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:111 sidebar.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:113 sidebar.php:21
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: header.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search "
+msgstr ""
+
+#: single.php:27
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:28
+msgid "Next Post"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:23
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:25
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:27
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:27
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:31
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:33
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:36
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:38
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:50 inc/corporate-prime-functions.php:47
+msgid "Home"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:51
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:52
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:53
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:54
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:55
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:56
+msgid "Error 404"
+msgstr ""
+
+#: inc/corporate-prime-breadcrumbs.php:177
+msgid "Page"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:13
+msgid "Select Page"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:39
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better. "
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:41
+msgid "UPGRADE  TO PRO "
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:53 inc/corporate-prime-customizer.php:93
+msgid "Add More Services Get Pro"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:65
+#: inc/corporate-prime-customizer.php:103
+msgid "Add More Slides Get Pro"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:73
+msgid "UPGRADE TO PRO VERSION"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:83
+msgid "Discover Corporate Prime Pro"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:140
+msgid "Theme Options"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:141
+msgid "Here you can customize theme data"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:147
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:166
+msgid "Open social links in new tab"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:182
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:198
+msgid "Google Page URL"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:214
+msgid "Youtube Page URL"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:229
+msgid "Twitter Page URL"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:244
+#: inc/corporate-prime-customizer.php:274
+msgid "Linkedin Page URL"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:259
+msgid "Email"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:282
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:302
+msgid "Hide Home Slider "
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:305
+msgid "Slider One Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:315
+msgid "Slide One Page"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:321
+msgid "Slider Two Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:331
+msgid "Slide Two Page"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:336
+msgid "Slider Three Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:346
+msgid "Slide Three Page"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:351
+msgid "Slider Button"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:355 inc/corporate-prime-variables.php:28
+msgid "Click To Begin"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:366
+msgid "Button Text"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:381
+msgid "Button Link"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:389
+msgid "Services Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:397
+msgid "Service Heading Text"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:409
+msgid "Title Text"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:414
+msgid "Service description text"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:425
+msgid "Description Text"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:428
+msgid "Services One"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:432 inc/corporate-prime-variables.php:33
+msgid "Service One Title"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:444
+#: inc/corporate-prime-customizer.php:479
+#: inc/corporate-prime-customizer.php:514
+msgid "Title"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:460
+#: inc/corporate-prime-customizer.php:495
+#: inc/corporate-prime-customizer.php:530
+#: inc/corporate-prime-customizer.php:573
+#: inc/corporate-prime-customizer.php:615
+msgid "Description"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:463
+msgid "Services Two"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:467 inc/corporate-prime-variables.php:35
+msgid "Service Two Title"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:498
+msgid "Services Three"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:502 inc/corporate-prime-variables.php:37
+msgid "Service Three Title"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:538
+msgid "Latest News Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:546 inc/corporate-prime-variables.php:40
+msgid "Latest News"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:557
+#: inc/corporate-prime-customizer.php:599
+msgid "Heading"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:562 inc/corporate-prime-variables.php:41
+msgid "Be updated with latest news"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:580
+msgid "Clients Settings"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:588 inc/corporate-prime-variables.php:43
+msgid "Our Clients"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:604 inc/corporate-prime-variables.php:44
+msgid "We have awesome client list"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:627
+msgid "Upload Client Image One"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:641
+msgid "Upload Client Image Two"
+msgstr ""
+
+#: inc/corporate-prime-customizer.php:655
+msgid "Upload Client Image Three"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:20
+msgid "Slide One Title"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:20
+msgid "Slide One Description"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:21
+msgid "Slide Two Title"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:21
+msgid "Slide Two Description"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:22
+msgid "Slide Three Title"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:22
+msgid "Slide Three Description"
+msgstr ""
+
+#: inc/corporate-prime-variables.php:31
+msgid "Service Heading Text "
+msgstr ""
+
+#: inc/corporate-prime-variables.php:32 inc/corporate-prime-variables.php:34
+#: inc/corporate-prime-variables.php:36 inc/corporate-prime-variables.php:38
+msgid ""
+"Service description text. Service description text. Service description "
+"text. Service description text."
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "0 comment"
+msgstr ""
+
+#: inc/template-tags.php:40
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:49 template-parts/content-page.php:47
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-home.php:19
+msgid "Com"
+msgstr ""
+
+#: template-parts/content-home.php:32
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-index.php:45 template-parts/content-page.php:36
+#: template-parts/content-search.php:45 template-parts/content-single.php:49
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-index.php:52 template-parts/content-search.php:52
+#: template-parts/content.php:55
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:44
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
